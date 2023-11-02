@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Music Industry Overview</title>
+</head>
+<body>
+    <header>
+        <h1>How the Music Industry Works</h1>
+    </header>
+    <main>
+        <section id="artists">
+            <h2>Artists</h2>
+            <section id="artists">
+                <p>
+                    Without artists, there would be no music industry. They are the mind behind the music, melodies, and lyrics that make a song unique and stand out to a wide range of audiences. Artists can come from any background and create any genre, each bringing their induvidual talents and perspectives to the industry. When artists collaborate, these talents and perspectives come together to create a novel and collective sound, a process which many would describe as "synergy". Some of the greatest songs over the last century have been the products of collaboration between multiple and sometimes unexpected artists. 
+                </p>
+                <p>
+                    The role of an artist goes beyond just making the music. It encompasses various aspects, including:
+                </p>
+                    
+                    <ul>
+                       
+                        <li><strong>Songwriting:</strong> Artists often write their own songs, expressing their minds, emotions, and experiences through lyrics and melodies. Songwriting is an integral part of an artist's creative process.</li>
+                        
+                        <li><strong>Performance:</strong> Artists perform their music live at venues to connect with fans and create memorable experiences (sometimes being the source for more inspiration). Live performances are a significant source of revenue for many artists and often  overshadow revenue generated from streaming or record sales (ie. iTunes purchases, cds, vinyl).</li>
+                        
+                        <li><strong>Recording:</strong> Artists work in recording studios to produce and record their music. This process involves collaborating with producers, engineers, and musicians to achieve the desired sound. Desired sound is a term typically associated with the artist and their own creative process. In the modern age though, this paradigm rarely holds true as record labels and agents influence part of the creative process due to the financial stake they may have in the artist's name and likeness. Famously, Taylor Swift called attention to this problem as a majority of her music was owned by invested parties.</li>
+                        
+                        <li><strong>Marketing and Branding:</strong> Building a unique image and brand is essential for artists. It helps them stand out in a crowded industry and connects them with their target audience. Every day, a new artist begins their journey up the ranks of the music industry, emphasizing the importance of being unique and standing out. Now more than ever, artists are incentivized to take responsibility over their image and brand due to the accessibility of social media platforms making it easier for creatives to share and monetize their work. Additionally, agencies and record labels are looking more towards branding and marketing as a metric for potential success, further highlighting the power of an authentic online presence.</li>
+                        
+                    </ul>
+                <p>
+                    In today's digital age, artists have more opportunities to connect directly with their fans through social media platforms, streaming services, and online communities. They can release music independently or sign with record labels for broader distribution and financial support.
+                </p>
+                <p>
+                    The journey of an artist in the music industry is often marked by persistance, hard work, and a deep passion for music. While the industry can be competitive and challenging, artists play a pivotal role in shaping the sound and culture of their time, leaving a lasting impact on music enthusiasts worldwide.
+                </p>
+</section>
+
+        </section>
+
+        <section id="agents-managers">
+            <h2>Agents/Managers</h2>
+            <section id="agents-managers">
+                <p>
+                    Agents and managers are essential figures in the music industry who play a crucial role in the success and career development of artists. While they are distinct roles, they often work closely together to navigate the complex landscape of the music business.
+                </p>
+            <h3>Agent:</h3>
+                <p>
+                    Agents, often referred to as booking agents or talent agents, primarily focus on booking live performances and gigs for artists. Their responsibilities include:
+                </p>
+                    
+                    <ul>
+                        
+                        <li><strong>Booking Shows:</strong> Agents negotiate and secure performance opportunities for artists. This involves liaising with concert promoters, venues, and event organizers to schedule concerts, festivals, and tours.</li>
+                       
+                        <li><strong>Contract Negotiation:</strong> Agents handle contract negotiations, ensuring that artists receive fair compensation for their performances. They also negotiate performance fees and other contractual terms.</li>
+                        
+                        <li><strong>Logistics:</strong> Agents coordinate the logistical aspects of live performances, such as travel arrangements, accommodations, and technical requirements. They aim to ensure that artists can deliver their best performances.</li>
+                        
+                        <li><strong>Career Strategy:</strong> Agents work with artists to develop a strategic plan for their careers. They help artists make decisions about the types of shows to book, tour routes, and overall career direction.</li>
+                    
+                    </ul>
+
+            <h3>Manager:</h3>
+                <p>
+                    Managers, on the other hand, take a more comprehensive approach to an artist's career, focusing on both short-term and long-term goals. Their responsibilities include:
+                </p>
+                    
+                    <ul>
+                        
+                        <li><strong>Career Development:</strong> Managers work closely with artists to define their artistic vision and career goals. They help artists make decisions about their music, image, and brand development.</li>
+                        
+                        <li><strong>Financial Management:</strong> Managers oversee the financial aspects of an artist's career, including budgeting, income, and expenses. They often work to ensure that artists are financially secure and make wise financial decisions.</li>
+                        
+                        <li><strong>Strategic Planning:</strong> Managers develop long-term strategies to advance an artist's career. This may include selecting record labels, negotiating record deals, and exploring licensing opportunities.</li>
+                        
+                        <li><strong>Team Building:</strong> Managers assemble and oversee the artist's team, which may include lawyers, publicists, producers, and more. They coordinate efforts to support the artist's success.</li>
+                        
+                        <li><strong>Public Relations:</strong> Managers often handle media relations and public relations on behalf of the artist. They help manage the artist's public image and deal with media inquiries.</li>
+                   
+                    </ul>
+                
+                <p>
+                    In summary, agents and managers are instrumental in helping artists navigate the complexities of the music industry. While agents focus on booking live performances and securing opportunities, managers take a broader role in shaping the artist's career, from financial management to long-term strategic planning. Together, they form a vital support system that allows artists to focus on their creative work while building a successful and sustainable career in music.
+                </p>
+</section>
+
+        </section>
+
+        <section id="record-labels">
+            <h2>Record Labels</h2>
+            <section id="record-labels">
+                <p>
+                    Record labels are key players in the music industry, serving as intermediaries between artists and their audiences. They play a vital role in the development, promotion, distribution, and financial support of musical talent.
+                </p>
+                <p>
+                    The responsibilities and functions of record labels include:
+                </p>
+                    <ul>
+                        
+                        <li><strong>Artist Development:</strong> Record labels identify and sign talented artists, helping them refine their sound and artistic vision. They provide guidance and resources for artists to develop their careers.</li>
+                        
+                        <li><strong>Recording and Production:</strong> Labels finance and oversee the recording, production, and mastering of an artist's music. This includes working with producers, engineers, and studios to create high-quality recordings.</li>
+                        
+                        <li><strong>Promotion and Marketing:</strong> Labels promote artists and their music through various channels, including radio, TV, social media, and press. They invest in marketing campaigns, music videos, and public relations to build an artist's brand and reach a broader audience.</li>
+                        
+                        <li><strong>Distribution:</strong> Record labels have distribution networks that ensure an artist's music reaches a wide audience. They negotiate deals with physical retailers and digital platforms, making music available for sale and streaming worldwide.</li>
+                        
+                        <li><strong>Financial Support:</strong> Labels provide funding for artists, covering recording costs, marketing expenses, and tour support. In return, they typically take a percentage of an artist's earnings from music sales and performances.</li>
+                        
+                        <li><strong>Contract Negotiations:</strong> Record labels negotiate contracts with artists, specifying terms related to royalties, album releases, and ownership rights. These contracts can vary widely and are crucial to an artist's career.</li>
+                        
+                        <li><strong>A&R (Artist and Repertoire):</strong> A&R professionals at record labels scout for new talent, attend live performances, and help match artists with songwriters and producers to create hit songs and albums.</li>
+                    
+                    </ul>
+                
+                <p>
+                    While record labels offer valuable resources and support, artists often have to balance the benefits of signing with a label against the loss of some creative control and a share of their earnings. Many independent artists choose to retain full control over their music and release it through digital distribution platforms.
+                </p>
+                
+                <p>
+                    In conclusion, record labels are essential partners for artists in the music industry, providing the infrastructure, expertise, and financial backing needed to bring music to a global audience. However, the relationship between artists and labels varies, and artists must carefully consider their options to ensure their career aligns with their artistic goals and aspirations.
+                </p>
+</section>
+
+        </section>
+
+    </main>
+    <footer>
+        &copy; 2023 Owen S. Barr
+    </footer>
+</body>
+</html>
